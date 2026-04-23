@@ -1,3 +1,5 @@
 # MineSociety
-<img src="/docs/content/Minecraft World Simulation-2026-04-23-051721.svg">
-Your own Minecraft Society
+
+<p align="center">
+  <img src="./docs/content/Minecraft%20World%20Simulation-2026-04-23-051721.svg" width="900"/>
+</p>
