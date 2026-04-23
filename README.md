@@ -1,5 +1,6 @@
 # MineSociety
 
+> ***Note:***
 > MineSociety is *NOT* a framework.
 
 MineSociety is a Minecraft social civilization simulation
